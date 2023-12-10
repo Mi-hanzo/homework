@@ -12,3 +12,4 @@
 /Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.pdb
 /Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.genruntimeconfig.cache
 /Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/ref/DZS3.dll
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.sourcelink.json

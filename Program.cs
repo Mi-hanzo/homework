@@ -99,3 +99,37 @@
 // на 0-м индексе массива, младший – на последнем. Размер массива должен быть
 // равен количеству цифр.
 
+// Console.WriteLine ("Введите натуральное число в диапазоне от 1 до 100 000: ");
+// int N = int.Parse (Console.ReadLine());
+
+// int L=N;
+// while (L < 1 || L > 100000)
+// {
+//     Console.WriteLine("Введите натуральное число в диапазоне от 1 до 100 000 (!!!): ");
+// int P = int.Parse(Console.ReadLine());
+// L=P;
+// }
+
+// int Pt = L;
+// int k = 0;
+// while (Pt > 0)
+// {
+//     k++;
+//     Pt= Pt/10;
+// }
+
+// int[] mihanzo = new int[k];
+// int F=L;
+// for (int i=0; i < mihanzo.Length; i++)
+// {
+//     while (k > 0)
+//     {
+//         double dm = Math.Pow(10, (k - 1));
+//         int m = (int)dm;
+//         L = L / m;
+//         mihanzo[i] = L % 10;
+//         Console.Write(mihanzo[i] + " ");
+//         k--;
+//         L = F;
+//     }
+// }
