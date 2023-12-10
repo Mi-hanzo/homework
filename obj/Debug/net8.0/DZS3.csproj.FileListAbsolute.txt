@@ -1,0 +1,14 @@
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.AssemblyInfoInputs.cache
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.AssemblyInfo.cs
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.csproj.CoreCompileInputs.cache
+/Users/mihanzo/Desktop/DZS3/bin/Debug/net8.0/DZS3
+/Users/mihanzo/Desktop/DZS3/bin/Debug/net8.0/DZS3.deps.json
+/Users/mihanzo/Desktop/DZS3/bin/Debug/net8.0/DZS3.runtimeconfig.json
+/Users/mihanzo/Desktop/DZS3/bin/Debug/net8.0/DZS3.dll
+/Users/mihanzo/Desktop/DZS3/bin/Debug/net8.0/DZS3.pdb
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.dll
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/refint/DZS3.dll
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.pdb
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/DZS3.genruntimeconfig.cache
+/Users/mihanzo/Desktop/DZS3/obj/Debug/net8.0/ref/DZS3.dll
